@@ -43,6 +43,5 @@ The objective of this assignment was to build a story on the user of the Preciou
 
 ## Steps
 
-Download and review the Precious Report.docx to see the steps taken for the report. If you would like to review the image for yourself, download the Precious.E01 file. 
-
+Download and review the Precious Report.docx to see the steps taken for the report.
 
